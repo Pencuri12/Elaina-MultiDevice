@@ -47,27 +47,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/danibotz_official' //Link Instagrammu
-global.sgh = 'https://github.com/YTDANIBOTZ' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DyBMXDw1IshFM9z0ZHZNlR'
+global.sig = 'https://instagram.com/_tnchap' //Link Instagrammu
+global.sgh = 'https://github.com/Pencuri12' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/ngkad'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
-global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
+global.snh = 'https://nhentai.net/g/ngkad' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899' //Nomor Danamu
-global.ppulsa = '081251549899' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '639481734606' //Nomor Danamu
+global.ppulsa = '639481734606' //Nomor SimCard Yang Kamu Pake
+global.psaweria = 'https://saweria.com/ngkada' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281352848936' //Nomor Bot
-global.nomorown = '6281251549899' //Nomor Owner
+global.nomorbot = '639481734606' //Nomor Bot
+global.nomorown = '6285288342187' //Nomor Owner
 global.namebot = 'Elaina BOT' //Nama Bot
-global.nameown = 'DaniXd' // Nama Owner
+global.nameown = 'MOMOTZY' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', '❦ DaniXd? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6285288342187', '❦ MOMOTZY? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
