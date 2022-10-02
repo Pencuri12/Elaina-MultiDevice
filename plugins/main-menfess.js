@@ -38,4 +38,4 @@ handler.private = true
 
 export default handler
 
-//Credit? https://github.com/ImYanXiao
+//Credit? https://github.com/ngkada
