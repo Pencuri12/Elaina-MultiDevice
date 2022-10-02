@@ -60,14 +60,14 @@ global.psaweria = 'https://saweria.com/ngkada' //Link Saweriamu Kalo Nggada Keti
 
 /*============== NOMOR ==============*/
 global.nomorbot = '639481734606' //Nomor Bot
-global.nomorown = '6285288342187' //Nomor Owner
-global.namebot = 'Elaina BOT' //Nama Bot
-global.nameown = 'MOMOTZY' // Nama Owner
+global.nomorown = '50361912162' //Nomor Owner
+global.namebot = '𝑺𝒀𝑵𝑪 𝑩𝑶𝑻𝒁' //Nama Bot
+global.nameown = '𝑺𝒀𝑵𝑪' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285288342187', '❦ MOMOTZY? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['50361912162', '❦ 𝑺𝒀𝑵𝑪 𝑩𝑶𝑻𝒁? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
