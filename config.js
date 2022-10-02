@@ -48,7 +48,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/_tnchap' //Link Instagrammu
-global.sgh = 'https://github.com/Pencuri12' //Link Githubmu
+global.sgh = 'https://github.com/ngkada' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/ngkad'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/ngkad' //Hmmm, Ini boleh kalian isi terserah :v
