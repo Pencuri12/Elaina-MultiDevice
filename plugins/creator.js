@@ -20,13 +20,13 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = 'https://telegra.ph/file/cce9ab4551f7150f1970d.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Yan Xiao
+${htjava} *💌 Nama* : -
 ${htjava} *✉️ Nama RL* : Rahasia🗿
-${htjava} *♂️ Gender* : Boys
-${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 15 Oktober 2004
-${htjava} *🎨 Umur* : 17
-${htjava} *🧮 Kelas* : 12
+${htjava} *♂️ Gender* : -
+${htjava} *🕋 Agama* : -
+${htjava} *⏰ Tanggal lahir* : -
+${htjava} *🎨 Umur* : -
+${htjava} *🧮 Kelas* : -
 ${htjava} *🧩 Hobby* : Nonton Donghua, Chatting, Musik, Recode script bot
 ${htjava} *💬 Sifat* : Idiot, Tidak Ramah, Bilek, Prik, Nolep
 ${htjava} *🗺️ Tinggal* : Indo, Tulungagung, Jawa Timur
