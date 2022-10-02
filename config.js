@@ -54,12 +54,12 @@ global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/ngkad' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '639481734606' //Nomor Danamu
-global.ppulsa = '639481734606' //Nomor SimCard Yang Kamu Pake
+global.pdana = '6285288342187' //Nomor Danamu
+global.ppulsa = '6285288342187' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/ngkada' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '639481734606' //Nomor Bot
+global.nomorbot = '6285288342187' //Nomor Bot
 global.nomorown = '50361912162' //Nomor Owner
 global.namebot = '𝑺𝒀𝑵𝑪 𝑩𝑶𝑻𝒁' //Nama Bot
 global.nameown = '𝑺𝒀𝑵𝑪' // Nama Owner
