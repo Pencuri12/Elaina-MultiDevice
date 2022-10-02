@@ -700,7 +700,7 @@ export async function participantsUpdate({ id, participants, action }) {
                                 groupname: await this.getName(id),
                                 membercount: groupMetadata.participants.length
                             })
-    conn.sendButtonDoc(id, text, wm, action == 'add' ? 'ᴡᴇʟᴄᴏᴍᴇ' : 'sᴀʏᴏɴᴀʀᴀᴀ', action === 'add' ? '.intro' : 'ok', fkontak, { contextInfo: { externalAdReply: { showAdAttribution: true,
+    conn.sendButtonDoc(id, text, wm, action == 'add' ? '𝐬𝐞𝐥𝐚𝐦𝐚𝐭 𝐝𝐚𝐭𝐚𝐧𝐠 𝐬𝐚𝐲𝐚𝐧𝐠 😘' : '𝐬𝐞𝐥𝐚𝐦𝐚𝐭 𝐭𝐢𝐧𝐠𝐚𝐥 𝐬𝐚𝐲𝐚𝐧𝐠 🤗', action === 'add' ? '.intro' : 'ok', fkontak, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: "https://instagram.com/Safiraorie",
     mediaType: 2, 
     description: "https://youtu.be/ngkad", 
